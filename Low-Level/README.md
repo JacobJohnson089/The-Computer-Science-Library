@@ -74,6 +74,8 @@ for the PC and Windows
 2nd edition
 by
 Barry Kauler
+
+1997
 ```
 
 <br />
@@ -101,5 +103,28 @@ jtstreib@ic.edu
  "NESHLA: The High Level, Open Source, 6502 Assembler for the Nintendo Entertainment System"
 ```
 
+<br />
+
+[Here](https://babel.hathitrust.org/cgi/pt?id=mdp.39015000480718&view=1up&seq=7)
+```
+Programming
+the
+IBM 1401:
+a Self-Instructional
+Programmed Manual
+
+1963
+```
+<br />
+
+[Here](http://www.z80.de/z80/z80code.htm)
+```
+Z80, Z180, Z280, Z380, 
+Programming, Hardware, Software,
+Utilities, FAQ, Support, CPU, assembler
+James Moxham
+
+1996
+```
 
 
