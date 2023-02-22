@@ -4,6 +4,19 @@
 
 <br />
 
+[Here](https://github.com/JacobJohnson089/The-Computer-Science-Library/blob/main/Low-Level/ProgrammingGroundUp-1-0-booksize.pdf)
+
+```
+Programming from the Ground Up
+Jonathan Bartlett
+Edited by
+Dominick Bruno, Jr
+
+2003
+```
+
+<br />
+
 [Here](https://github.com/JacobJohnson089/The-Computer-Science-Library/blob/main/Low-Level/900952G_metaSymbolLangRef_Oct75.pdf)
 ```
 Xerox Meta-Symbol Sigma 5 .. 9 Computers 
