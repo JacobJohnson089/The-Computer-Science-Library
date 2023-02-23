@@ -4,6 +4,23 @@
 
 <br />
 
+[Here](https://github.com/JacobJohnson089/The-Computer-Science-Library/blob/main/Low-Level/assembly64.pdf) I recommend this one to learn assembly
+
+```
+x86-64
+Assembly Language
+Programming
+with 
+Ubuntu
+Ed Jorgensen, Ph.D.
+version 1.1.44
+
+2022
+```
+
+
+<br />
+
 [Here](https://github.com/JacobJohnson089/The-Computer-Science-Library/blob/main/Low-Level/ProgrammingGroundUp-1-0-booksize.pdf)
 
 ```
