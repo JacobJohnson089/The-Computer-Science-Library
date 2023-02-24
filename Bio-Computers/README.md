@@ -6,6 +6,17 @@
 
 <br/>
 
+[Here](https://en.wikipedia.org/wiki/DNA_digital_data_storage) | I higly recommend you go throught the sources at the end you will find 42 additional documents
+
+```
+
+Wikipedia Article
+
+```
+
+
+<br/>
+
 [Here](https://www.youtube.com/watch?v=60Gi5lqL-dA&ab_channel=MicrosoftResearch)
 
 ```
