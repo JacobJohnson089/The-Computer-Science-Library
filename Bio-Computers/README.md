@@ -109,6 +109,7 @@ Dr. Thomas DeMarse
 
 [Here](https://www.youtube.com/watch?v=V2YDApNRK3g&ab_channel=TheThoughtEmporium) | Entertainment purpose but detailed enought to understand the process
 
+[Here](https://www.youtube.com/watch?v=p1C0qpqpAWc&ab_channel=TheThoughtEmporium) | This was a live published 8 month ago discussing the subject
 ```
 
 Growing Human Neurons Connected to a Computer
